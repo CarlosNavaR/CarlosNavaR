@@ -18,7 +18,7 @@ Hola 👋
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNavaR&theme=buefy&layout=compact" />
 </a>
 
-## :inbox_tray: Contacto ##
+## :mailbox_with_mail: Contacto ##
 
 <div align="center">
     <a href="https://github.com/CarlosNavaR" target="_blank">
