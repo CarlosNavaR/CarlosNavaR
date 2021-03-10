@@ -1,17 +1,4 @@
-
-<img align="Center" alt="atiwalkers.com"  width="800px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/80bede73356013.5c376e1f9df7f.gif" style="{
-    position:absolute;
-    left: -100%;
-    right: -100%;
-    top: -100%;
-    bottom: -100%;
-    margin: auto;
-    min-height: 100%;
-    min-width: 100%;
-}"/>
-
-<hr/>
-
+<hr>
 ## :octocat: Github stats  ##
 
 <a href="https://github.com/CarlosNavaR">
