@@ -21,7 +21,7 @@ Hola 👋
 <hr>
 
 <a href="https://github.com/CarlosNavaR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNavaR&theme=vision-friendly-dark&show_icons=true" alt="CarlosNavaR GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNavaR&bg_color=10171E&show_icons=true" alt="CarlosNavaR GitHub Stats" />
 </a>
 
 <a href="https://github.com/CarlosNavaR">
