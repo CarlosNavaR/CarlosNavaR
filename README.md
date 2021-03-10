@@ -1,16 +1,30 @@
-### Hi there 👋
+###### :heavy_exclamation_mark: Carlos Nava - Estudiante de ingeniería en Sistemas computacionales. :floppy_disk: ######
 
-<!--
-**CarlosNavaR/CarlosNavaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
+Hola 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+<a href="https://github.com/CarlosNavaR" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/Carlos-NavaR/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+## Github stats :octocat: ##
+
+<hr>
+
+<a href="https://github.com/CarlosNavaR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNavaR&hide=java,html" />
+</a>
+
+<a href="https://github.com/CarlosNavaR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNavaR" alt="CarlosNavaR GitHub Stats" />
+</a>
+
