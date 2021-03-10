@@ -1,4 +1,4 @@
-###### :heavy_exclamation_mark: Carlos Nava - Estudiante de ingeniería en Sistemas computacionales. :floppy_disk: ######
+#### :heavy_exclamation_mark: Carlos Nava - Estudiante de ingeniería en Sistemas computacionales. :floppy_disk: ####
 
 <hr/>
 Hola 👋
