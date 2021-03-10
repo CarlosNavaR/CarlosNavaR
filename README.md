@@ -1,5 +1,14 @@
 
-<img align="Center" alt="atiwalkers.com" width="1000px" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5ff3a981832435.5d0b31830cdbd.jpg"/>
+<img align="Center" alt="atiwalkers.com"  width="800px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/80bede73356013.5c376e1f9df7f.gif" style="{
+    position:absolute;
+    left: -100%;
+    right: -100%;
+    top: -100%;
+    bottom: -100%;
+    margin: auto;
+    min-height: 100%;
+    min-width: 100%;
+}"/>
 
 <hr/>
 
