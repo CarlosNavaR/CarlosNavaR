@@ -18,7 +18,6 @@
 [![Linkedin: CarlosNava](https://img.shields.io/badge/-CarlosNava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-navar/)](https://www.linkedin.com/in/carlos-navar/)
 [![GitHub Carlos](https://img.shields.io/github/followers/CarlosNavaR?label=follow&style=social)](https://github.com/CarlosNavaR)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true&line_height=45&include_all_commits=true" />  <img src="https://github-readme-stackoverflow.vercel.app/?userID=9516173"  />
 
 
 
