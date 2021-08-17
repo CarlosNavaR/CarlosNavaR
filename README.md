@@ -30,7 +30,7 @@
 </div>
 <br><br>
 <div  align='center'>
- <a href="https://github.com/CarlosNavaR"><img width="60%" src="https://github-profile-trophy.vercel.app/?username=CarlosNavaR&row=1&column=5&theme=buefy">
+ <a href="https://github.com/CarlosNavaR"><img width="80%" src="https://github-profile-trophy.vercel.app/?username=CarlosNavaR&row=1&column=5&theme=buefy">
  </div>
 
 
