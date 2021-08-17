@@ -24,8 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNavaR&theme=buefy&show_icons=true" alt="CarlosNavaR GitHub Stats" width="40%"/>
 </a>
 
-  <br>
-  
 <a href="https://github.com/CarlosNavaR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNavaR&theme=buefy&layout=compact" width="40%"/>
 </a>
