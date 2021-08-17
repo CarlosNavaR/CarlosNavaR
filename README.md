@@ -2,6 +2,12 @@
 <img src="https://github.com/CarlosNavaR/Resources/blob/f3ef78c327e1347cc8322421430ff9427859b725/Coding-bro.svg" width="280">
 </div>
 
+## <samp> :mailbox_with_mail: Contacto </samp> ##
+
+[![Linkedin: CarlosNava](https://img.shields.io/badge/-CarlosNava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-navar/)](https://www.linkedin.com/in/carlos-navar/)
+[![GitHub Carlos](https://img.shields.io/github/followers/CarlosNavaR?label=follow&style=social)](https://github.com/CarlosNavaR)
+
+
 ## <samp> :octocat: Github stats </samp> ##
 
 <div  align='center'>
@@ -13,12 +19,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNavaR&theme=buefy&layout=compact"/>
 </a>
 </div>
-
-## <samp> :mailbox_with_mail: Contacto </samp> ##
-
-[![Linkedin: CarlosNava](https://img.shields.io/badge/-CarlosNava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-navar/)](https://www.linkedin.com/in/carlos-navar/)
-[![GitHub Carlos](https://img.shields.io/github/followers/CarlosNavaR?label=follow&style=social)](https://github.com/CarlosNavaR)
-
 
 
 
