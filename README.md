@@ -10,7 +10,7 @@
 
 
 
-## <samp> :mailbox_with_mail: Contacto </samp> ##
+## <samp> :mailbox_with_mail: Contact </samp> ##
 
 <div  align='center'>
 
