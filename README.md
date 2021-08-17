@@ -1,5 +1,6 @@
 <img align='right' src="https://github.com/CarlosNavaR/Resources/blob/f3ef78c327e1347cc8322421430ff9427859b725/Coding-bro.svg" width="280">
 
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Carlos Nava</h1>
 
 ## :octocat: Github stats  ##
 
