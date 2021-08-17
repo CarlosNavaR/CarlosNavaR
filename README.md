@@ -6,11 +6,11 @@
 
 <div  align='center'>
 <a href="https://github.com/CarlosNavaR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNavaR&theme=buefy&show_icons=true" alt="CarlosNavaR GitHub Stats" width="400" height="600"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNavaR&theme=buefy&show_icons=true" alt="CarlosNavaR GitHub Stats" width="450px"/>
 </a>
 
 <a href="https://github.com/CarlosNavaR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNavaR&theme=buefy&layout=compact" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNavaR&theme=buefy&layout=compact" width="400px"/>
 </a>
 </div>
 
