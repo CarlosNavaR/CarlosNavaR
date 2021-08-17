@@ -12,7 +12,7 @@
 </a>
 
 
-## :mailbox_with_mail: Contacto ##
+## <samp> :mailbox_with_mail: Contacto </samp> ##
 
 [![Linkedin: CarlosNava](https://img.shields.io/badge/-CarlosNava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-navar/)](https://www.linkedin.com/in/carlos-navar/)
 [![GitHub Carlos](https://img.shields.io/github/followers/CarlosNavaR?label=follow&style=social)](https://github.com/CarlosNavaR)
