@@ -1,7 +1,7 @@
 
 
 <div  align='center'>
-  <samp> Estudiante de ingeniería en sistemas computacionales </samp> <br>
+  <samp> Computer System Engineering Student </samp> <br>
   <img src="https://github.com/CarlosNavaR/Resources/blob/f3ef78c327e1347cc8322421430ff9427859b725/Coding-bro.svg" width="280">
     <p align="center">
     <img src="https://badges.pufler.dev/visits/CarlosNavaR/CarlosNavaR" alt="CarlosNavaR" />
