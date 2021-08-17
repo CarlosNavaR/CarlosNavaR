@@ -1,8 +1,9 @@
+<samp> Estudiante de ingeniería en sistemas computacionales </samp>
+
 <div  align='right'>
 <img src="https://github.com/CarlosNavaR/Resources/blob/f3ef78c327e1347cc8322421430ff9427859b725/Coding-bro.svg" width="280">
 </div>
 
-<samp> Estudiante de ingeniería en sistemas computacionales </samp>
 
 ## <samp> :mailbox_with_mail: Contacto </samp> ##
 
