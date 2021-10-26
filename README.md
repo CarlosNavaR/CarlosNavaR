@@ -21,7 +21,7 @@
 
 <div>
 <a href="https://github.com/CarlosNavaR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNavaR&theme=nightowl&show_icons=true" alt="CarlosNavaR GitHub Stats" width="50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNavaR&theme=nightowl&show_icons=true" alt="CarlosNavaR GitHub Stats" width="55%"/>
 </a>
 <a href="https://github.com/CarlosNavaR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNavaR&theme=nightowl&layout=compact" width="45%"/>
