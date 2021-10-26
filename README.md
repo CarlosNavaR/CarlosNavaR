@@ -19,7 +19,7 @@
 
 ## <samp> :octocat: Github stats </samp> ##
 
-<div>
+<div align='center'>
 <a href="https://github.com/CarlosNavaR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNavaR&theme=nightowl&show_icons=true" alt="CarlosNavaR GitHub Stats" width="50%"/>
 </a>
