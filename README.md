@@ -18,7 +18,7 @@
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" />
-    ![CSS Wizardry](https://img.shields.io/static/v1?style=for-the-badge&message=CSS+Wizardry&color=F43059&logo=CSS+Wizardry&logoColor=FFFFFF&label=)
+    <img alt="C#" src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=" />
   </p>
 </div>
 
