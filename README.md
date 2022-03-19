@@ -20,7 +20,7 @@
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="SQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=SQL+Server&logoColor=FFFFFF&label=" />
+    <img alt="SQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=" />
     <img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" />
   </p>
 </div>
